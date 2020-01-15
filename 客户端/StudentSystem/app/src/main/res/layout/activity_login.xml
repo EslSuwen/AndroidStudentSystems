@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/bg"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/edit_account"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="200dp"
+        android:layout_marginBottom="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:background="@drawable/edit_bg"
+        android:hint="账号"
+        android:textSize="15sp"></EditText>
+
+    <EditText
+        android:id="@+id/edit_passwd"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/edit_bg"
+        android:hint="密码"
+        android:inputType="textPassword"
+        android:textSize="15sp"></EditText>
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:background="@drawable/btn_bg"
+        android:text="登录"
+        android:textSize="30sp"></Button>
+</LinearLayout>

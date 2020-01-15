@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@drawable/bg"
+    android:layout_height="match_parent">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="详细信息"
+        android:layout_marginTop="100dp"
+        android:textSize="15sp"
+        android:background="@drawable/btn_bg"
+        android:id="@+id/btn_info"></Button>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_bg"
+        android:layout_margin="40dp"
+        android:layout_gravity="center"
+        android:text="编辑"
+        android:textSize="15sp"
+        android:id="@+id/btn_edit"></Button>
+    <Button
+        android:layout_width="wrap_content"
+        android:background="@drawable/btn_bg"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="删除"
+        android:textSize="15sp"
+        android:id="@+id/btn_del"></Button>
+</LinearLayout>
