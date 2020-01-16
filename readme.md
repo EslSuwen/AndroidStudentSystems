@@ -103,7 +103,7 @@
 
 
 
-<img src="./assets/3_admin_add.jpg" alt="3_admin_add" style="zoom:25%;" /><img src="./assets/4_admin_register.jpg" alt="4_admin_register" style="zoom:25%;" />
+<img src="./assets/3_admin_add.jpg" alt="3_admin_add" width="200" /><img src="./assets/4_admin_register.jpg" alt="4_admin_register" width="200" />
 
 
 
@@ -111,4 +111,4 @@
 
 
 
-<img src="./assets/5_student.jpg" alt="5_student" style="zoom:25%;" /><img src="./assets/6_stusent_edit.jpg" alt="6_stusent_edit" style="zoom:25%;" />
+<img src="./assets/5_student.jpg" alt="5_student" width="200" /><img src="./assets/6_stusent_edit.jpg" alt="6_stusent_edit" width="200" />
