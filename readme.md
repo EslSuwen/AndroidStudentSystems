@@ -95,7 +95,7 @@
 
 *主页 && 管理员界面* 
 
-<img src="./assets/1_index.jpg" alt="1_index" style="zoom:25%;" /><img src="./assets/2_admin.jpg" alt="2_admin" style="zoom:25%;" />
+<img src="./assets/1_index.jpg" alt="1_index" width="200" /><img src="./assets/2_admin.jpg" width="200"   />
 
 
 
